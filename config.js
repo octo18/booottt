@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
+global.vcardowner = ['6285749710086'] //ur owner number
+global.ownername = "ʍǟӼֆ ɮօȶ" //ur owner name
+global.developer = "ʍǟӼֆ ɮօȶ" //nama lu
+global.ytname = "ʍǟӼֆ ɮօȶ" //ur yt chanel name
+global.socialm = "ʍǟӼֆ ɮօȶ" //ur github or insta name
+global.sgc = "ʍǟӼֆ ɮօȶ"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.owner = ['6285749710086'] //ur number
+global.ownernomer = "6281231319880" //ur number
+global.ownertag = '6285749710086' //ur tag number
+global.premium = ['6285749710086','6281231319880'] //ur premium number
+global.botname = 'ʍǟӼֆ ɮօȶ' //ur bot name
+global.ownername = "mAxS"
+global.linkz = "ʍǟӼֆ ɮօȶ" //your theme url which will be displayed on whatsapp
+global.dana = "6285749710086"
+global.pulsa = "6285749710086"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.author = "ʍǟӼֆ ɮօȶ" //ur sticker watermark author
+global.wm = "ʍǟӼֆ ɮօȶ" //ur watermark
 
 // Other
 global.sessionName = 'Session'
